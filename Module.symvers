@@ -1,0 +1,3 @@
+0xf98f620c	cs421net_enable	/home/sarahal1/proj2/xt_cs421net	EXPORT_SYMBOL
+0xe7051e03	cs421net_disable	/home/sarahal1/proj2/xt_cs421net	EXPORT_SYMBOL
+0x2493cd7d	cs421net_get_data	/home/sarahal1/proj2/xt_cs421net	EXPORT_SYMBOL
